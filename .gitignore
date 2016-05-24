@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+  <title>JP Donovan</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://karenhutton.com/wp-content/uploads/2013/04/SandHarborCove-900x570.jpg");
+      background-size: cover;
+      background-position: center;
+      color: red;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    img.resize {
+      max-width:10%;
+      max-height:10%;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <p><b>Hi! JP Donovan, a Tahoe based Athlete. Say hello!</b></p>
+  <img class="resize" src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/10982471_10101768377070035_8153955770576445573_n.jpg?oh=b01dabc0e8e10aa65a850629b9da07a3&oe=57E42D88">
+    <div>
+  <input type="email" placeholder="           Your email">
+  <input type="submit">
+    </div>
+</body>
